@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="listviewItemHeight">48dp</dimen>
+    <dimen name="mainLeftRightPadding">16dp</dimen>
+    <dimen name="checkbox_circle">20dp</dimen>
+    <dimen name="textBig">16sp</dimen>
+    <dimen name="arrowWidthHeight">17dp</dimen>
+    <dimen name="gameViewListItemMarginLeftRight">16dp</dimen>
+    <dimen name="mainLeftRightPaddingChild">72dp</dimen>
+</resources>
